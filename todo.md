@@ -16,6 +16,8 @@
 
 - DIGISCAPE ?
 
+- Контракт? Договор? Обязанность - в общем у руководителя там странный текст
+
 ### Обсудить
 - Полы гендеры (Femme, Masculine, Androgynous, Animalistic, Transgressing, Esoteric, Fluid)
 
