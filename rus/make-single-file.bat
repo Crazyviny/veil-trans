@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set OUTPUT=current-trans.md
+set OUTPUT=../current-trans.md
 
 if exist "%OUTPUT%" del "%OUTPUT%"
 
@@ -17,5 +17,5 @@ for /L %%N in (1,1,300) do (
     )
 )
 
-echo Готово. Результат: %OUTPUT%
+echo Done: %OUTPUT%
 pause
